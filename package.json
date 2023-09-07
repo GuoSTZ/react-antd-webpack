@@ -44,6 +44,9 @@
     "**/*.{js,jsx}": "npm run lint-staged:js",
     "**/*.{js,ts,tsx}": "npm run lint-staged:js"
   },
+  "dependencies": {
+    "antd": "5.8.6"
+  },
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
