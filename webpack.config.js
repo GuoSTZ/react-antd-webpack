@@ -96,7 +96,9 @@ module.exports = {
       directory: path.join(__dirname, 'dist')
     },
     compress: true,
-    port: 8088
+    port: 8088,
+    open: true, // 自动打开浏览器
+    hot: true, // 热更新
   },
   externals: isModuleBuild
     ? {
