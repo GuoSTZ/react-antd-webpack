@@ -1,7 +1,7 @@
 {
   "name": "react-antd-webpack",
   "version": "0.0.1",
-  "description": "一个react+antd+webpack的模板项目",
+  "description": "一个react17+antd5+webpack5的模板项目",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "keywords": [

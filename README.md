@@ -1,4 +1,4 @@
-## 这是一个 React + Antd + Webpack 的项目模板
+## 这是一个 React17 + Antd5 + Webpack5 的项目模板
 
 #### Start a dev process
 
